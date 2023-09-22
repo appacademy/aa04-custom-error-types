@@ -1,0 +1,1 @@
+# aa04-custom-error-types
